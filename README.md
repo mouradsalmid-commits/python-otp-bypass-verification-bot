@@ -4,7 +4,6 @@ otpbot voip system
 
 🟢 Operational | 📈 Uptime: 100%
 
-
 👋 Hello, Jarko   ! Welcome to the OTP BOT . This bot is used to register to our website and recieve notifications.
 
 🧠 Our bot is an Hybrid between OTP Bot and 3CX. its a professional Social Engineering kit for professional OTP users.
